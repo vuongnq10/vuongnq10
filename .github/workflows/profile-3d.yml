@@ -16,9 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          target_branch: 3d-art
-          build_dir: profile-3d-contrib
+        #with:
+          #target_branch: 3d-art
+          #build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
