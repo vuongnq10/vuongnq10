@@ -14,7 +14,7 @@ jobs:
       - name: profile-3d-contrib
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: push profile-3d-contrib to the output branch
@@ -23,7 +23,7 @@ jobs:
           target_branch: 3d-art
           build_dir: profile-3d-contrib
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # - uses: yoshi389111/github-profile-3d-contrib@0.7.1
       #   with:
       #     target_branch: 3d-art
