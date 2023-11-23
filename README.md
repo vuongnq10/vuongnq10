@@ -19,6 +19,8 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
   
 </div>
 
+![profile-3d-animation](https://github.com/vuongnq10/vuongnq10/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
+
 ### ⚡ Technologies
 <div align="center">
   
