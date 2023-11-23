@@ -5,7 +5,7 @@
 ### A weirdo software engineer guy
 A passionate Frontend Guy, who currently studying MBA, majoring in Finance
 Weird right? Well, I challenge myself to do difficult thing in my life to tell my kids Once-Upon-A-Time stories. Just kidding 😏
-- 📫 Reach me at: https://www.linkedin.com/in/vuongnq
+- 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuongnq)
 - 🖥 See me at: https://vuongnq.netlify.app
 - 📍 Merrylands 2160, Sydney, NSW
 
@@ -19,10 +19,28 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
   
 </div>
 
+### ⚡ Technologies
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=html5&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
+<div align="center">
+  
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![NextJs](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+</div>
 <!--
 ### Hi there 👋
 **vuongnq10/vuongnq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://shields.io/badges
+https://simpleicons.org/?q=css
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
