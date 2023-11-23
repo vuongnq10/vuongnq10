@@ -3,7 +3,7 @@
 </div>
 
 ### A weirdo software engineer guy
-A passionate Frontend Guy, who currently studying MBA, majoring in Finance
+A passionate Frontend Guy, who currently studying MBA, majoring in Finance </br>
 Weird right? Well, I challenge myself to do difficult thing in my life to tell my kids Once-Upon-A-Time stories. Just kidding 😏
 - 📫 Reach me at: [![Vuong Nguyen Quoc](https://img.shields.io/badge/Vuong%20Nguyen%20Quoc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuongnq)
 - 🖥 See me at: [![Vuong Nguyen's Portfolio](https://img.shields.io/badge/Vuong%20Nguyen-241F31?style=for-the-badge&logo=iterm2&logoColor=white)](https://vuongnq.netlify.app)
