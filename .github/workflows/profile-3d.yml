@@ -21,7 +21,7 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push origin 3d-art --force
 # name: GitHub-Profile-3D-Contrib
 
 # on:
