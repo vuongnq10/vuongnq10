@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋, Yo - How've you been, welcome to my corner buddy 😉</h2>
+  <h2>👋, Yo - How've you been, Welcome to my corner buddy 😉</h2>
 </div>
 
 ### A weirdo software engineer guy
