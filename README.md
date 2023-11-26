@@ -38,6 +38,11 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![NextJs](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 </div>
+<div style="width: 500px; height: 500px">
+  <div id="3d-art">
+  <script type="text/javascript" src="./three.js" crossOrigin="anonymous" async as="script" />
+      <script type="module" src="./main.js" crossOrigin="anonymous" async as="script" />
+</div>
 <!--
 ### Hi there 👋
 **vuongnq10/vuongnq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
