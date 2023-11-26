@@ -40,8 +40,11 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
 </div>
 <div style="width: 500px; height: 500px">
   <div id="3d-art">
-  <script type="text/javascript" src="./three.js" crossOrigin="anonymous" async as="script" />
-      <script type="module" src="./main.js" crossOrigin="anonymous" async as="script" />
+  <script>
+    (() => {
+      console.log('hura')
+    })()
+  </script>
 </div>
 <!--
 ### Hi there 👋
