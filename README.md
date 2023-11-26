@@ -41,9 +41,11 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
 <div style="width: 500px; height: 500px">
   <div id="3d-art">
     ```javascript --run
-    
       console.log('hura')
     ```
+    <script>
+      alert('aaa')
+    </script>
 </div>
 <!--
 ### Hi there 👋
