@@ -40,11 +40,8 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
 </div>
 <div style="width: 500px; height: 500px">
   <div id="3d-art">
-    ```js client
-    
-      (() => {
-        console.log('hura')
-      })()
+    ```javascript --run
+      console.log('hura')
     ```
 </div>
 <!--
