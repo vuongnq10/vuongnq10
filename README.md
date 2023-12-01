@@ -11,7 +11,7 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuongnq10&show_icons=true&theme=radical&count_private=true)](https://www.linkedin.com/in/vuongnq)
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuongnq10&show_icons=true&theme=radical&count_private=true)](https://www.linkedin.com/in/vuongnq) -->
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongnq10&layout=compact&count_private=true)](https://www.linkedin.com/in/vuongnq)
   
