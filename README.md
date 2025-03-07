@@ -15,8 +15,6 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongnq10&layout=compact&count_private=true)](https://www.linkedin.com/in/vuongnq)
   
-  ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=vuongnq10)
-  
 </div>
 
 ![profile-3d-animation](https://github.com/vuongnq10/vuongnq10/blob/3d-art/profile-south-season-animate.svg)
