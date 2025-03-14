@@ -25,6 +25,7 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=html5&logoColor=white)
+  [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)]
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
@@ -35,6 +36,9 @@ Weird right? Well, I challenge myself to do difficult thing in my life to tell m
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![NextJs](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)]
+  [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)]
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)]
 </div>
 <!--
 **vuongnq10/vuongnq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
